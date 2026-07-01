@@ -1,5 +1,7 @@
 # Password Strength Analyzer & Custom Wordlist Generator
+## 🌐 Live Demo
 
+👉 [Open Password Strength Analyzer](https://secops-toolkit-dva7.arcada.app)
 ## Objective
 Analyze password strength and generate attack-specific custom wordlists.
 
